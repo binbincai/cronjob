@@ -7,8 +7,9 @@ require (
 	github.com/onsi/ginkgo v1.11.0
 	github.com/onsi/gomega v1.8.1
 	github.com/robfig/cron v1.2.0
-	k8s.io/api v0.17.2
-	k8s.io/apimachinery v0.17.2
-	k8s.io/client-go v0.17.2
+	k8s.io/api v0.17.3
+	k8s.io/apimachinery v0.17.3
+	k8s.io/client-go v0.17.3
 	sigs.k8s.io/controller-runtime v0.5.0
+	sigs.k8s.io/kustomize/kustomize/v3 v3.8.1 // indirect
 )
